@@ -1,0 +1,1 @@
+一个spring cloud的demo,Eureka进行服务治理，Ribbon进行客户端负载均衡
